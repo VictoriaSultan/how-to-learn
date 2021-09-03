@@ -1,3 +1,8 @@
 .resources__logo-link {
     text-decoration: none;
-  }
+}
+
+.resources__logo-link:hover {
+  transition: 1s linear;
+  opacity: .3;
+}
